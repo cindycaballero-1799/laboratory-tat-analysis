@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Laboratory test results experienced delayed turnaround time from January to July 2026, with an average monthly delay rate of 19.06%, consistently exceeding the laboratory target of <10% per month.
+Laboratory test results experienced delayed turnaround time from January to July 2026, with an average monthly delay rate of **19.06%**, consistently exceeding the laboratory target of <10% per month.
 
 ## Data
 
