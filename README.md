@@ -18,6 +18,10 @@ The project uses clinical laboratory data covering January to July 2026.
 - **SQL (SQLite/DBeaver)**
 - **Power BI**
 
+## Dashboard
+
+![Clinical Laboratory TAT Dashboard](laboratory_tat_dashboard.png)
+
 ## Insights
 
 - The laboratory recorded an **average monthly TAT delay rate of 19.06%**, with every month exceeding the target of **<10%**.
