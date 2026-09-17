@@ -1,0 +1,273 @@
+﻿Survey Date,Respondent ID,Shift,Workload Rating (1-5),Staffing Adequacy (1-5),Equipment Reliability (1-5),Repeat Testing Manageability (1-5),Workflow Efficiency (1-5),Overall Satisfaction (1-5),Worked Overtime,Comments
+1/1/2026,SRV-0044,PM,4,2,4,3,2,3,No,Heavy Workload Affected Turnaround
+1/2/2026,SRV-0015,PM,3,2,3,2,3,2,Yes,Staffing Was Inadequate For The Workload
+1/3/2026,SRV-0033,PM,4,4,3,2,4,3,Yes,Staffing Was Adequate
+1/4/2026,SRV-0040,PM,4,2,4,3,3,2,No,High Workload During The Shift
+1/5/2026,SRV-0043,PM,5,2,3,4,3,3,No,Repeat Testing Was Manageable
+1/6/2026,SRV-0020,PM,4,4,2,3,3,3,Yes,Staffing Was Adequate
+1/7/2026,SRV-0013,PM,4,2,4,3,3,3,Yes,High Workload During The Shift
+1/7/2026,SRV-0031,AM,3,3,3,2,2,2,No,Repeat Testing Added To The Workload
+1/7/2026,SRV-0032,PM,4,3,5,3,4,4,No,Equipment Availability Supported The Workflow
+1/8/2026,SRV-0004,PM,4,3,4,3,3,3,No,Equipment Functioned Well
+1/8/2026,SRV-0018,PM,5,1,3,3,2,3,No,Heavy Workload Affected Turnaround
+1/9/2026,SRV-0010,PM,5,2,2,3,2,2,No,More Staff Coverage Is Needed
+1/13/2026,SRV-0011,PM,4,2,2,3,1,2,No,Heavy Workload Affected Turnaround
+1/13/2026,SRV-0027,PM,5,3,4,5,3,4,Yes,Equipment Functioned Well
+1/13/2026,SRV-0042,PM,5,3,2,3,4,4,Yes,Workflow Was Smooth
+1/14/2026,SRV-0006,AM,4,4,2,3,2,3,Yes,Heavy Workload Affected Turnaround
+1/14/2026,SRV-0035,PM,4,1,3,4,3,3,Yes,Overtime Was Needed To Finish Pending Work
+1/15/2026,SRV-0026,PM,3,3,3,3,4,3,No,Workflow Was Smooth
+1/16/2026,SRV-0030,PM,3,3,4,3,3,3,No,Equipment Availability Supported The Workflow
+1/17/2026,SRV-0002,PM,4,4,2,3,3,3,No,Equipment Issues Caused Interruptions
+1/17/2026,SRV-0005,AM,4,4,3,4,4,4,No,Workflow Was Smooth
+1/17/2026,SRV-0017,PM,3,3,3,3,2,3,Yes,Workflow Was Inefficient During Peak Hours
+1/18/2026,SRV-0038,PM,4,1,3,3,2,3,Yes,Workflow Was Inefficient During Peak Hours
+1/19/2026,SRV-0008,PM,4,3,2,3,3,4,No,Heavy Workload Affected Turnaround
+1/20/2026,SRV-0001,PM,5,3,3,3,3,3,Yes,Overtime Was Needed To Finish Pending Work
+1/20/2026,SRV-0003,AM,4,3,2,4,2,2,No,High Workload During The Shift
+1/20/2026,SRV-0016,PM,5,3,2,2,2,3,Yes,High Workload During The Shift
+1/20/2026,SRV-0034,AM,4,3,3,3,3,3,Yes,High Workload During The Shift
+1/21/2026,SRV-0022,PM,5,2,3,3,2,2,Yes,Heavy Workload Affected Turnaround
+1/21/2026,SRV-0025,AM,3,2,3,3,3,3,No,Staffing Was Inadequate For The Workload
+1/22/2026,SRV-0028,AM,3,3,3,2,3,2,Yes,Overtime Was Needed To Finish Pending Work
+1/23/2026,SRV-0023,PM,4,3,3,4,2,2,Yes,Heavy Workload Affected Turnaround
+1/23/2026,SRV-0036,PM,4,3,2,3,2,2,No,High Workload During The Shift
+1/24/2026,SRV-0007,AM,4,3,3,2,3,3,No,Repeat Testing Added To The Workload
+1/24/2026,SRV-0021,PM,5,2,2,3,1,2,No,Equipment Issues Caused Interruptions
+1/24/2026,SRV-0024,AM,4,3,4,4,3,3,Yes,Repeat Testing Was Manageable
+1/24/2026,SRV-0039,PM,3,4,2,4,3,4,Yes,Good Staff Coverage During The Shift
+1/25/2026,SRV-0014,PM,5,2,3,3,2,2,No,Workflow Was Inefficient During Peak Hours
+1/26/2026,SRV-0037,AM,5,4,3,3,4,4,Yes,Staffing Was Adequate
+1/28/2026,SRV-0029,PM,3,2,4,2,3,3,No,More Staff Coverage Is Needed
+1/29/2026,SRV-0012,AM,5,3,4,2,4,3,No,Heavy Workload Affected Turnaround
+1/30/2026,SRV-0041,PM,5,3,3,4,3,3,Yes,High Workload During The Shift
+1/31/2026,SRV-0009,AM,2,3,4,3,3,3,No,Equipment Functioned Well
+1/31/2026,SRV-0019,PM,4,4,3,2,3,3,Yes,Staffing Was Adequate
+2/2/2026,SRV-0048,PM,4,4,3,3,4,5,Yes,Good Staff Coverage During The Shift
+2/2/2026,SRV-0050,PM,5,3,4,3,3,3,Yes,Equipment Availability Supported The Workflow
+2/4/2026,SRV-0057,AM,5,2,3,3,2,3,Yes,More Staff Coverage Is Needed
+2/5/2026,SRV-0045,AM,4,2,3,4,3,3,Yes,Overtime Was Needed To Finish Pending Work
+2/5/2026,SRV-0053,PM,4,3,4,3,3,3,No,High Workload During The Shift
+2/7/2026,SRV-0067,PM,4,4,3,4,4,4,Yes,Workflow Was Smooth
+2/8/2026,SRV-0046,PM,3,4,3,4,2,3,Yes,Repeat Testing Was Manageable
+2/8/2026,SRV-0052,AM,2,2,3,2,3,2,Yes,More Staff Coverage Is Needed
+2/9/2026,SRV-0059,PM,4,3,3,4,4,4,No,Workflow Was Smooth
+2/9/2026,SRV-0081,AM,4,3,4,4,4,4,No,Workflow Was Smooth
+2/10/2026,SRV-0076,PM,3,3,4,4,3,4,No,Equipment Functioned Well
+2/10/2026,SRV-0077,AM,3,4,3,4,4,3,Yes,Overtime Was Needed To Finish Pending Work
+2/11/2026,SRV-0047,PM,4,2,3,3,3,2,No,High Workload During The Shift
+2/11/2026,SRV-0064,AM,3,3,2,3,2,2,Yes,Analyzer Reliability Needs Improvement
+2/11/2026,SRV-0071,AM,5,3,4,4,4,3,No,Repeat Testing Was Manageable
+2/13/2026,SRV-0070,AM,4,3,3,2,3,3,Yes,Overtime Was Needed To Finish Pending Work
+2/14/2026,SRV-0069,AM,3,3,2,2,2,2,No,Workflow Was Inefficient During Peak Hours
+2/14/2026,SRV-0075,PM,4,3,4,4,3,4,Yes,Equipment Availability Supported The Workflow
+2/14/2026,SRV-0080,PM,4,4,4,4,4,4,Yes,Repeat Testing Was Manageable
+2/15/2026,SRV-0072,AM,5,1,2,3,1,1,No,Workflow Was Inefficient During Peak Hours
+2/16/2026,SRV-0049,AM,5,3,3,2,3,2,No,Heavy Workload Affected Turnaround
+2/16/2026,SRV-0058,AM,3,4,4,5,4,4,No,Equipment Functioned Well
+2/17/2026,SRV-0062,AM,4,3,3,3,2,3,Yes,High Workload During The Shift
+2/18/2026,SRV-0065,PM,5,3,3,3,3,3,Yes,Overtime Was Needed To Finish Pending Work
+2/18/2026,SRV-0078,PM,3,4,3,3,4,4,Yes,Staffing Was Adequate
+2/19/2026,SRV-0051,AM,3,3,3,4,3,3,Yes,Overtime Was Needed To Finish Pending Work
+2/21/2026,SRV-0054,PM,4,3,3,3,2,3,No,High Workload During The Shift
+2/21/2026,SRV-0079,PM,4,4,3,3,4,4,Yes,Workflow Was Smooth
+2/23/2026,SRV-0066,PM,3,3,3,2,3,3,Yes,Overtime Was Needed To Finish Pending Work
+2/23/2026,SRV-0073,PM,4,3,4,4,2,3,Yes,Overtime Was Needed To Finish Pending Work
+2/23/2026,SRV-0074,AM,5,2,3,3,2,2,No,Staffing Was Inadequate For The Workload
+2/26/2026,SRV-0055,AM,5,3,4,4,3,3,Yes,Equipment Functioned Well
+2/26/2026,SRV-0056,PM,5,3,4,3,3,3,Yes,Equipment Availability Supported The Workflow
+2/27/2026,SRV-0061,PM,4,3,4,4,3,3,Yes,Heavy Workload Affected Turnaround
+2/27/2026,SRV-0068,PM,3,4,4,3,4,4,No,Good Staff Coverage During The Shift
+2/28/2026,SRV-0060,AM,5,3,3,4,3,3,No,High Workload During The Shift
+2/28/2026,SRV-0063,AM,3,2,4,4,3,3,No,Equipment Functioned Well
+3/1/2026,SRV-0093,PM,3,3,4,4,4,4,No,Repeat Testing Was Manageable
+3/1/2026,SRV-0103,PM,4,3,3,3,3,3,No,High Workload During The Shift
+3/5/2026,SRV-0094,PM,3,3,3,3,3,3,No,Work Conditions Were Generally Acceptable
+3/6/2026,SRV-0098,PM,4,4,3,4,3,4,No,Staffing Was Adequate
+3/6/2026,SRV-0112,PM,4,4,3,3,2,2,Yes,High Workload During The Shift
+3/7/2026,SRV-0084,AM,3,3,4,3,4,5,No,Workflow Was Smooth
+3/7/2026,SRV-0092,PM,3,3,2,4,3,3,Yes,Analyzer Reliability Needs Improvement
+3/8/2026,SRV-0106,AM,5,4,4,3,4,3,Yes,High Workload During The Shift
+3/8/2026,SRV-0109,AM,4,4,3,3,4,4,No,Staffing Was Adequate
+3/11/2026,SRV-0096,AM,3,4,4,3,4,3,No,Staffing Was Adequate
+3/11/2026,SRV-0101,AM,4,4,4,3,3,3,No,High Workload During The Shift
+3/12/2026,SRV-0082,AM,2,2,2,3,2,2,No,Analyzer Reliability Needs Improvement
+3/12/2026,SRV-0116,AM,3,3,3,2,3,3,Yes,Repeat Testing Added To The Workload
+3/14/2026,SRV-0113,PM,3,4,3,5,4,4,No,Repeat Testing Was Manageable
+3/15/2026,SRV-0110,PM,3,3,3,2,3,3,No,Repeat Testing Added To The Workload
+3/18/2026,SRV-0115,PM,3,4,4,5,4,4,No,Repeat Testing Was Manageable
+3/19/2026,SRV-0090,PM,5,4,4,3,3,3,No,Equipment Availability Supported The Workflow
+3/19/2026,SRV-0105,AM,4,4,5,3,4,3,No,High Workload During The Shift
+3/20/2026,SRV-0089,PM,4,4,3,4,3,3,No,Staffing Was Adequate
+3/20/2026,SRV-0108,PM,4,3,3,2,2,3,Yes,High Workload During The Shift
+3/20/2026,SRV-0114,AM,4,4,2,3,3,3,Yes,Overtime Was Needed To Finish Pending Work
+3/21/2026,SRV-0087,PM,3,2,5,3,4,4,Yes,Equipment Availability Supported The Workflow
+3/23/2026,SRV-0088,PM,4,3,3,3,3,3,Yes,Overtime Was Needed To Finish Pending Work
+3/24/2026,SRV-0107,PM,3,5,4,3,5,5,Yes,Equipment Functioned Well
+3/24/2026,SRV-0111,AM,3,4,4,3,3,4,No,Equipment Functioned Well
+3/25/2026,SRV-0086,PM,3,3,4,3,3,3,No,Equipment Availability Supported The Workflow
+3/25/2026,SRV-0104,AM,3,3,2,3,3,2,No,Equipment Issues Caused Interruptions
+3/26/2026,SRV-0091,AM,2,3,5,4,5,4,Yes,Workflow Was Smooth
+3/26/2026,SRV-0095,PM,4,4,4,4,4,5,No,Equipment Availability Supported The Workflow
+3/27/2026,SRV-0102,PM,4,2,5,3,4,3,Yes,Heavy Workload Affected Turnaround
+3/28/2026,SRV-0085,PM,3,4,4,3,4,3,Yes,Workflow Was Smooth
+3/29/2026,SRV-0083,AM,4,4,4,4,5,4,No,Staffing Was Adequate
+3/29/2026,SRV-0099,AM,4,4,4,3,4,3,Yes,Staffing Was Adequate
+3/31/2026,SRV-0097,PM,3,3,5,4,4,3,Yes,Workflow Was Smooth
+3/31/2026,SRV-0100,AM,3,3,3,4,4,3,No,Repeat Testing Was Manageable
+4/2/2026,SRV-0129,PM,3,3,3,3,3,3,Yes,Overtime Was Needed To Finish Pending Work
+4/3/2026,SRV-0134,AM,4,3,1,3,2,2,Yes,High Workload During The Shift
+4/4/2026,SRV-0125,AM,3,4,5,2,5,4,No,Equipment Functioned Well
+4/4/2026,SRV-0131,AM,4,3,4,4,4,4,Yes,Equipment Functioned Well
+4/4/2026,SRV-0137,AM,4,3,3,3,3,3,Yes,Heavy Workload Affected Turnaround
+4/5/2026,SRV-0149,PM,4,4,4,5,3,4,No,Repeat Testing Was Manageable
+4/5/2026,SRV-0155,PM,3,4,4,3,5,5,Yes,Staffing Was Adequate
+4/6/2026,SRV-0136,AM,4,3,3,2,3,2,No,High Workload During The Shift
+4/6/2026,SRV-0138,AM,4,3,4,2,4,3,Yes,Equipment Availability Supported The Workflow
+4/6/2026,SRV-0140,PM,2,3,3,4,3,2,No,Repeat Testing Was Manageable
+4/9/2026,SRV-0130,PM,3,3,3,3,3,3,No,Work Conditions Were Generally Acceptable
+4/9/2026,SRV-0132,AM,4,4,3,3,3,3,No,Good Staff Coverage During The Shift
+4/11/2026,SRV-0141,AM,3,4,4,4,4,4,Yes,Repeat Testing Was Manageable
+4/11/2026,SRV-0152,AM,5,5,4,3,4,4,No,Equipment Availability Supported The Workflow
+4/12/2026,SRV-0127,PM,4,3,3,2,4,3,Yes,High Workload During The Shift
+4/12/2026,SRV-0156,PM,5,2,3,3,3,3,Yes,More Staff Coverage Is Needed
+4/13/2026,SRV-0126,AM,3,4,3,3,3,3,No,Staffing Was Adequate
+4/14/2026,SRV-0124,AM,4,4,4,4,3,5,Yes,Equipment Functioned Well
+4/14/2026,SRV-0151,PM,3,2,3,2,2,2,No,Staffing Was Inadequate For The Workload
+4/15/2026,SRV-0120,AM,5,4,4,4,2,3,Yes,Workflow Was Inefficient During Peak Hours
+4/15/2026,SRV-0135,PM,5,3,5,2,3,3,No,High Workload During The Shift
+4/15/2026,SRV-0148,PM,4,4,4,3,4,4,Yes,Staffing Was Adequate
+4/17/2026,SRV-0119,PM,4,3,3,4,3,3,Yes,Repeat Testing Was Manageable
+4/18/2026,SRV-0121,AM,4,4,3,3,4,3,No,Workflow Was Smooth
+4/19/2026,SRV-0139,AM,4,5,3,3,4,4,No,Staffing Was Adequate
+4/19/2026,SRV-0146,PM,3,3,2,4,3,3,No,Equipment Issues Caused Interruptions
+4/19/2026,SRV-0157,PM,3,4,4,3,4,4,No,Equipment Functioned Well
+4/20/2026,SRV-0118,AM,4,4,4,3,3,3,Yes,Staffing Was Adequate
+4/21/2026,SRV-0150,PM,3,5,3,3,4,4,Yes,Staffing Was Adequate
+4/22/2026,SRV-0144,PM,3,3,2,2,4,3,Yes,Overtime Was Needed To Finish Pending Work
+4/22/2026,SRV-0145,AM,2,4,4,4,4,3,Yes,Repeat Testing Was Manageable
+4/23/2026,SRV-0123,AM,5,4,5,4,5,4,No,Staffing Was Adequate
+4/24/2026,SRV-0122,AM,3,4,3,4,4,4,Yes,Repeat Testing Was Manageable
+4/25/2026,SRV-0153,PM,3,3,3,3,3,3,Yes,Overtime Was Needed To Finish Pending Work
+4/26/2026,SRV-0117,PM,4,4,3,4,3,4,No,Good Staff Coverage During The Shift
+4/26/2026,SRV-0142,PM,4,4,3,3,3,3,Yes,Good Staff Coverage During The Shift
+4/27/2026,SRV-0128,PM,3,4,4,4,4,4,Yes,Good Staff Coverage During The Shift
+4/27/2026,SRV-0147,PM,3,2,3,3,2,3,Yes,More Staff Coverage Is Needed
+4/28/2026,SRV-0143,PM,4,3,4,4,4,4,Yes,Workflow Was Smooth
+4/30/2026,SRV-0133,AM,3,4,3,2,3,3,No,Staffing Was Adequate
+4/30/2026,SRV-0154,PM,4,4,2,4,3,3,Yes,Good Staff Coverage During The Shift
+5/1/2026,SRV-0164,AM,4,4,3,4,4,5,Yes,Good Staff Coverage During The Shift
+5/2/2026,SRV-0179,AM,4,3,5,3,4,4,No,Equipment Functioned Well
+5/3/2026,SRV-0189,PM,5,3,3,3,3,2,No,Heavy Workload Affected Turnaround
+5/4/2026,SRV-0168,AM,5,4,4,2,3,4,Yes,Equipment Availability Supported The Workflow
+5/4/2026,SRV-0175,PM,3,2,2,2,2,2,No,More Staff Coverage Is Needed
+5/4/2026,SRV-0196,PM,4,2,3,2,2,2,No,Workflow Was Inefficient During Peak Hours
+5/6/2026,SRV-0174,AM,4,3,3,4,4,4,Yes,Repeat Testing Was Manageable
+5/9/2026,SRV-0159,AM,5,3,2,5,3,3,No,Repeat Testing Was Manageable
+5/9/2026,SRV-0162,PM,5,3,5,4,4,4,Yes,Equipment Availability Supported The Workflow
+5/9/2026,SRV-0182,AM,3,4,4,4,4,3,Yes,Good Staff Coverage During The Shift
+5/9/2026,SRV-0192,PM,4,3,3,3,2,3,Yes,Overtime Was Needed To Finish Pending Work
+5/10/2026,SRV-0178,AM,4,3,4,3,3,3,Yes,Equipment Functioned Well
+5/10/2026,SRV-0183,AM,3,4,3,3,4,4,Yes,Workflow Was Smooth
+5/11/2026,SRV-0170,AM,2,4,4,4,5,5,No,Staffing Was Adequate
+5/12/2026,SRV-0194,AM,3,2,3,3,3,3,Yes,More Staff Coverage Is Needed
+5/14/2026,SRV-0171,AM,5,2,3,4,2,3,Yes,Workflow Was Inefficient During Peak Hours
+5/14/2026,SRV-0172,AM,4,4,4,3,4,4,No,Equipment Availability Supported The Workflow
+5/15/2026,SRV-0158,AM,4,3,4,2,3,3,No,Equipment Availability Supported The Workflow
+5/15/2026,SRV-0188,PM,3,4,2,2,2,3,Yes,Good Staff Coverage During The Shift
+5/17/2026,SRV-0180,PM,3,4,3,3,4,4,Yes,Workflow Was Smooth
+5/17/2026,SRV-0184,PM,4,4,3,3,3,3,No,Good Staff Coverage During The Shift
+5/19/2026,SRV-0185,PM,3,2,3,3,2,3,No,More Staff Coverage Is Needed
+5/20/2026,SRV-0173,AM,4,3,3,3,2,3,No,Workflow Was Inefficient During Peak Hours
+5/20/2026,SRV-0193,PM,3,4,3,4,4,4,No,Staffing Was Adequate
+5/21/2026,SRV-0166,AM,3,2,3,3,3,4,Yes,More Staff Coverage Is Needed
+5/22/2026,SRV-0186,AM,3,4,4,2,4,4,Yes,Equipment Availability Supported The Workflow
+5/23/2026,SRV-0195,PM,4,4,3,4,4,4,Yes,Staffing Was Adequate
+5/24/2026,SRV-0165,AM,3,3,4,3,4,3,Yes,Equipment Availability Supported The Workflow
+5/24/2026,SRV-0177,PM,3,3,3,3,3,3,No,No Major Issues Encountered
+5/25/2026,SRV-0187,PM,4,4,3,4,4,3,Yes,High Workload During The Shift
+5/26/2026,SRV-0163,PM,4,3,3,3,2,3,No,Heavy Workload Affected Turnaround
+5/26/2026,SRV-0169,PM,3,3,3,4,3,3,Yes,Repeat Testing Was Manageable
+5/26/2026,SRV-0190,AM,5,4,4,2,3,3,Yes,Equipment Availability Supported The Workflow
+5/28/2026,SRV-0161,PM,4,3,3,3,3,3,No,High Workload During The Shift
+5/29/2026,SRV-0160,PM,3,3,2,4,3,4,Yes,Repeat Testing Was Manageable
+5/29/2026,SRV-0167,AM,4,2,4,4,2,3,Yes,Equipment Availability Supported The Workflow
+5/29/2026,SRV-0181,AM,3,3,4,4,4,4,Yes,Equipment Availability Supported The Workflow
+5/29/2026,SRV-0191,PM,3,4,4,3,4,4,Yes,Equipment Availability Supported The Workflow
+5/31/2026,SRV-0176,PM,5,4,3,4,4,4,Yes,Good Staff Coverage During The Shift
+6/1/2026,SRV-0216,PM,4,2,4,3,4,3,Yes,Workflow Was Smooth
+6/3/2026,SRV-0227,PM,4,3,3,3,3,3,Yes,High Workload During The Shift
+6/5/2026,SRV-0209,PM,3,3,4,4,4,4,No,Repeat Testing Was Manageable
+6/6/2026,SRV-0207,AM,3,4,4,3,4,4,Yes,Workflow Was Smooth
+6/6/2026,SRV-0210,AM,4,3,4,3,3,4,Yes,Equipment Availability Supported The Workflow
+6/7/2026,SRV-0222,PM,5,3,4,2,3,3,No,High Workload During The Shift
+6/7/2026,SRV-0224,PM,3,3,3,4,3,3,Yes,Overtime Was Needed To Finish Pending Work
+6/8/2026,SRV-0198,AM,3,3,3,5,3,4,No,Repeat Testing Was Manageable
+6/8/2026,SRV-0214,AM,3,5,4,3,4,4,No,Staffing Was Adequate
+6/8/2026,SRV-0226,PM,5,3,2,4,3,3,Yes,Equipment Issues Caused Interruptions
+6/10/2026,SRV-0215,PM,2,4,4,3,4,3,Yes,Good Staff Coverage During The Shift
+6/10/2026,SRV-0221,PM,2,4,4,4,4,4,Yes,Staffing Was Adequate
+6/11/2026,SRV-0208,PM,3,4,3,3,4,4,Yes,Workflow Was Smooth
+6/11/2026,SRV-0219,AM,4,3,3,3,2,2,Yes,Overtime Was Needed To Finish Pending Work
+6/14/2026,SRV-0202,PM,4,4,3,4,3,4,No,Repeat Testing Was Manageable
+6/15/2026,SRV-0212,PM,3,4,3,3,3,3,Yes,Good Staff Coverage During The Shift
+6/15/2026,SRV-0230,PM,3,3,4,4,3,4,No,Repeat Testing Was Manageable
+6/17/2026,SRV-0197,PM,3,4,3,4,4,4,Yes,Staffing Was Adequate
+6/18/2026,SRV-0206,AM,3,4,4,3,3,3,No,Good Staff Coverage During The Shift
+6/18/2026,SRV-0211,PM,4,4,4,4,4,3,Yes,Good Staff Coverage During The Shift
+6/20/2026,SRV-0220,PM,4,4,3,4,4,3,Yes,Overtime Was Needed To Finish Pending Work
+6/21/2026,SRV-0199,AM,4,3,4,3,4,3,No,High Workload During The Shift
+6/21/2026,SRV-0200,AM,4,3,3,3,3,3,No,High Workload During The Shift
+6/24/2026,SRV-0203,PM,3,2,5,4,4,4,Yes,Equipment Availability Supported The Workflow
+6/24/2026,SRV-0218,AM,3,3,4,3,3,3,No,Equipment Availability Supported The Workflow
+6/24/2026,SRV-0223,AM,4,3,5,3,4,4,Yes,Equipment Availability Supported The Workflow
+6/25/2026,SRV-0213,AM,4,3,3,3,4,3,Yes,High Workload During The Shift
+6/26/2026,SRV-0225,AM,4,4,5,4,4,4,Yes,Equipment Functioned Well
+6/28/2026,SRV-0229,PM,3,3,4,4,3,3,Yes,Equipment Availability Supported The Workflow
+6/29/2026,SRV-0228,AM,4,3,3,3,3,3,No,High Workload During The Shift
+6/30/2026,SRV-0201,PM,4,3,4,3,4,4,No,Equipment Availability Supported The Workflow
+6/30/2026,SRV-0204,AM,3,3,4,4,4,3,No,Repeat Testing Was Manageable
+6/30/2026,SRV-0205,AM,4,3,3,3,3,3,Yes,Overtime Was Needed To Finish Pending Work
+6/30/2026,SRV-0217,AM,3,5,4,4,4,4,Yes,Repeat Testing Was Manageable
+7/1/2026,SRV-0235,PM,3,2,2,4,2,2,No,Analyzer Reliability Needs Improvement
+7/1/2026,SRV-0242,AM,3,4,4,4,4,5,Yes,Equipment Functioned Well
+7/1/2026,SRV-0249,AM,3,2,3,4,3,4,Yes,Repeat Testing Was Manageable
+7/1/2026,SRV-0251,PM,3,3,5,4,4,5,No,Equipment Availability Supported The Workflow
+7/2/2026,SRV-0238,PM,3,3,3,3,2,3,Yes,Overtime Was Needed To Finish Pending Work
+7/2/2026,SRV-0258,AM,4,4,4,3,4,4,Yes,Equipment Availability Supported The Workflow
+7/2/2026,SRV-0261,PM,3,4,3,4,3,3,No,Staffing Was Adequate
+7/2/2026,SRV-0266,PM,4,4,3,4,3,4,Yes,Repeat Testing Was Manageable
+7/3/2026,SRV-0247,AM,3,4,4,4,3,3,Yes,Repeat Testing Was Manageable
+7/3/2026,SRV-0270,AM,4,4,3,5,3,4,Yes,Staffing Was Adequate
+7/4/2026,SRV-0269,PM,2,4,3,4,4,4,No,Repeat Testing Was Manageable
+7/5/2026,SRV-0272,PM,5,4,3,4,3,3,No,Heavy Workload Affected Turnaround
+7/8/2026,SRV-0231,PM,2,4,3,2,4,4,Yes,Staffing Was Adequate
+7/8/2026,SRV-0243,PM,3,3,3,3,2,2,No,Workflow Was Inefficient During Peak Hours
+7/8/2026,SRV-0246,AM,4,4,4,4,4,4,Yes,Equipment Availability Supported The Workflow
+7/9/2026,SRV-0252,PM,3,4,4,3,4,4,No,Equipment Availability Supported The Workflow
+7/11/2026,SRV-0253,PM,4,3,1,2,3,3,No,Analyzer Reliability Needs Improvement
+7/12/2026,SRV-0241,PM,3,3,5,4,4,4,Yes,Equipment Functioned Well
+7/12/2026,SRV-0250,PM,3,3,4,3,4,4,Yes,Workflow Was Smooth
+7/13/2026,SRV-0264,AM,3,2,4,2,3,3,Yes,Overtime Was Needed To Finish Pending Work
+7/14/2026,SRV-0245,AM,5,3,3,3,2,3,No,Workflow Was Inefficient During Peak Hours
+7/19/2026,SRV-0237,AM,3,4,3,4,4,4,Yes,Good Staff Coverage During The Shift
+7/20/2026,SRV-0233,PM,3,3,4,3,4,4,Yes,Equipment Availability Supported The Workflow
+7/20/2026,SRV-0236,AM,3,3,5,4,4,5,Yes,Equipment Functioned Well
+7/21/2026,SRV-0248,PM,4,4,3,3,4,2,Yes,Overtime Was Needed To Finish Pending Work
+7/21/2026,SRV-0263,AM,5,4,3,2,3,3,Yes,Overtime Was Needed To Finish Pending Work
+7/23/2026,SRV-0262,AM,5,3,5,3,4,4,No,Equipment Availability Supported The Workflow
+7/24/2026,SRV-0239,AM,4,3,3,3,2,3,No,Heavy Workload Affected Turnaround
+7/24/2026,SRV-0254,AM,2,3,4,4,3,3,Yes,Repeat Testing Was Manageable
+7/24/2026,SRV-0255,PM,4,5,2,2,3,4,No,Staffing Was Adequate
+7/24/2026,SRV-0257,AM,3,3,3,2,3,3,Yes,Overtime Was Needed To Finish Pending Work
+7/25/2026,SRV-0240,AM,4,3,4,4,3,5,Yes,Equipment Functioned Well
+7/25/2026,SRV-0244,PM,3,3,4,4,3,4,Yes,Equipment Availability Supported The Workflow
+7/25/2026,SRV-0271,PM,3,3,4,3,4,4,Yes,Equipment Availability Supported The Workflow
+7/28/2026,SRV-0256,PM,4,2,3,3,2,3,No,Heavy Workload Affected Turnaround
+7/28/2026,SRV-0260,AM,4,4,3,3,4,3,Yes,Staffing Was Adequate
+7/29/2026,SRV-0232,PM,4,3,4,3,5,4,Yes,Equipment Availability Supported The Workflow
+7/29/2026,SRV-0268,PM,4,2,4,3,2,2,No,High Workload During The Shift
+7/30/2026,SRV-0234,AM,3,4,2,3,4,4,Yes,Good Staff Coverage During The Shift
+7/30/2026,SRV-0259,PM,4,3,2,3,2,3,No,Heavy Workload Affected Turnaround
+7/30/2026,SRV-0265,AM,4,2,3,3,2,3,No,Staffing Was Inadequate For The Workload
+7/30/2026,SRV-0267,PM,3,4,4,3,4,4,Yes,Good Staff Coverage During The Shift
