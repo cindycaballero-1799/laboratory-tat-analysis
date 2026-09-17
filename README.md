@@ -6,7 +6,7 @@ Laboratory test results experienced delayed turnaround time from January to July
 
 ## Data
 
-The project uses clinical laboratory data covering January to July 2026.
+This project uses a synthetic clinical laboratory dataset created for data analytics portfolio purposes, covering January to July 2026
 
 - **4,416 laboratory test records** containing test date, laboratory section, test name, priority, turnaround time, repeat testing, staff on duty, equipment status, and TAT status.
 - **272 staff survey responses** containing workload, staffing adequacy, equipment reliability, repeat testing manageability, workflow efficiency, overall satisfaction, and overtime information.
