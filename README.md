@@ -15,10 +15,8 @@ This project uses a synthetic clinical laboratory dataset created for data analy
 ## Methodology
 
 - **Excel** – Cleaned and prepared the raw laboratory, staff survey, and shift reference data for analysis.
-- **SQL (SQLite/DBeaver)** – Analyzed monthly TAT performance and examined associations with repeat testing, equipment status, priority, laboratory section, and staffing indicators.
+- **SQL** – Analyzed monthly TAT performance and examined associations with repeat testing, equipment status, priority, laboratory section, and staffing indicators.
 - **Power BI** – Built the data model, created DAX measures, and developed an interactive dashboard to visualize TAT performance and operational factors.
-
-## Dashboard
 
 ![Clinical Laboratory TAT Dashboard](laboratory_tat_dashboard.png)
 
