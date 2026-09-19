@@ -1,10 +1,14 @@
 # Clinical Laboratory Turnaround Time (TAT) Analysis
 
+## Objective
+
+To evaluate laboratory turnaround-time performance from January to July 2026 and identify operational factors associated with delayed results. 
+
 ## Problem Statement
 
 Laboratory test results experienced delayed turnaround time from January to July 2026, with an average monthly delay rate of **19.06%**, consistently exceeding the laboratory target of <10% per month.
 
-## Data
+## Dataset
 
 This project uses a synthetic clinical laboratory dataset created for data analytics portfolio purposes, covering January to July 2026
 
